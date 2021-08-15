@@ -1,13 +1,14 @@
 /* Resets */
+
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
-    'Lucida Sans', Arial, sans-serif;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 /* Mobile first */
+
 .wrapper {
   min-height: 100vh;
   min-width: calc(100vw - (100vw - 100%));
@@ -53,9 +54,46 @@
 }
 
 .output-cointainer #output {
+  display: flex;
+  flex-wrap: wrap;
   width: 80%;
   margin-top: 25px;
   padding: 30px;
   border-radius: 5px;
   background-color: #fff;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 250px;
+  height: 300px;
+  border: 2px solid lightgray;
+  border-radius: 20px;
+  -webkit-box-shadow: 2px 7px 18px rgba(217, 208, 217, 0.5);
+  -moz-box-shadow: 2px 7px 18px rgba(217, 208, 217, 0.5);
+  box-shadow: 2px 7px 18px rgba(217, 208, 217, 0.5);
+  margin: 20px;
+}
+
+.user-login {
+  padding: 30px;
+  color: #222222;
+  font-weight: bolder;
+  font-size: 30px;
+}
+
+.img-place {
+  width: 150px;
+  border-radius: 20px;
+}
+
+.message {
+  display: block;
+}
+
+.message-out {
+  display: none;
 }

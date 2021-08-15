@@ -1,5 +1,6 @@
 [
   {
+    "img": "https://www.carlogos.org/logo/SEAT-logo-2012-640x508.jpg",
     "brand": "Seat",
     "models": [
       "Alhambra",
@@ -20,6 +21,7 @@
     ]
   },
   {
+    "img": "https://www.carlogos.org/logo/Renault-logo-2015-640x550.jpg",
     "brand": "Renault",
     "models": [
       "Captur",
@@ -55,6 +57,7 @@
     ]
   },
   {
+    "img": "https://www.carlogos.org/logo/Peugeot-logo-2010-640x451.jpg",
     "brand": "Peugeot",
     "models": [
       "1007",
@@ -96,6 +99,7 @@
     ]
   },
   {
+    "img": "https://www.carlogos.org/logo/Dacia-logo-2008-640x550.jpg",
     "brand": "Dacia",
     "models": [
       "Dokker",
@@ -109,6 +113,7 @@
     ]
   },
   {
+    "img": "https://www.carlogos.org/logo/Citroen-logo-2009-640x550.jpg",
     "brand": "Citroën",
     "models": [
       "Berlingo",
@@ -143,6 +148,7 @@
     ]
   },
   {
+    "img": "https://www.carlogos.org/logo/Opel-symbol-2009-black-640x506.jpg",
     "brand": "Opel",
     "models": [
       "Agila",
@@ -173,6 +179,7 @@
     ]
   },
   {
+    "img": "https://www.carlogos.org/logo/Alfa-Romeo-logo-2015-640x550.jpg",
     "brand": "Alfa Romeo",
     "models": [
       "145",
@@ -197,6 +204,7 @@
     ]
   },
   {
+    "img": "https://www.carlogos.org/logo/Skoda-logo-2016-640x550.jpg",
     "brand": "Škoda",
     "models": [
       "Favorit",
@@ -217,6 +225,7 @@
     ]
   },
   {
+    "img": "https://www.carlogos.org/logo/Chevrolet-logo-2013-640x281.jpg",
     "brand": "Chevrolet",
     "models": [
       "Alero",
@@ -247,6 +256,7 @@
     ]
   },
   {
+    "img": "https://www.carlogos.org/car-logos/porsche-logo-2100x1100-show.png",
     "brand": "Porsche",
     "models": [
       "911 Carrera",
@@ -264,6 +274,7 @@
     ]
   },
   {
+    "img": "https://www.carlogos.org/car-logos/honda-logo-1700x1150-show.png",
     "brand": "Honda",
     "models": [
       "Accord",
@@ -288,6 +299,7 @@
     ]
   },
   {
+    "img": "https://www.carlogos.org/logo/Subaru-logo-2003-640x358.jpg",
     "brand": "Subaru",
     "models": [
       "BRZ",
@@ -307,6 +319,7 @@
     ]
   },
   {
+    "img": "https://www.carlogos.org/logo/Mazda-logo-1997-640x550.jpg",
     "brand": "Mazda",
     "models": [
       "121",
@@ -340,6 +353,7 @@
     ]
   },
   {
+    "img": "https://www.carlogos.org/logo/Mitsubishi-logo-640x550.jpg",
     "brand": "Mitsubishi",
     "models": [
       "3000 GT",
@@ -370,6 +384,7 @@
     ]
   },
   {
+    "img": "https://www.carlogos.org/logo/Lexus-logo-1988-640x266.jpg",
     "brand": "Lexus",
     "models": [
       "CT",
@@ -392,6 +407,7 @@
     ]
   },
   {
+    "img": "https://www.carlogos.org/car-logos/toyota-logo-2019-3700x1200-show.png",
     "brand": "Toyota",
     "models": [
       "4-Runner",
@@ -430,6 +446,7 @@
     ]
   },
   {
+    "img": "https://www.carlogos.org/car-logos/bmw-logo-2020-blue-white-show.png",
     "brand": "BMW",
     "models": [
       "i3",
@@ -476,6 +493,7 @@
     ]
   },
   {
+    "img": "https://www.carlogos.org/logo/Volkswagen-logo-2019-640x500.jpg",
     "brand": "Volkswagen",
     "models": [
       "Amarok",
@@ -529,6 +547,7 @@
     ]
   },
   {
+    "img": "https://www.carlogos.org/logo/Suzuki-logo-640x285.jpg",
     "brand": "Suzuki",
     "models": [
       "Alto",
@@ -550,6 +569,7 @@
     ]
   },
   {
+    "img": "https://www.carlogos.org/logo/Mercedes-Benz-logo-2011-640x369.jpg",
     "brand": "Mercedes-Benz",
     "models": [
       "100 D",
@@ -613,6 +633,7 @@
     ]
   },
   {
+    "img": "https://www.carlogos.org/logo/Saab-logo-2013-640x143.jpg",
     "brand": "Saab",
     "models": [
       "9-3",
@@ -628,6 +649,7 @@
     ]
   },
   {
+    "img": "https://www.carlogos.org/logo/Audi-logo-2009-640x334.jpg",
     "brand": "Audi",
     "models": [
       "100",
@@ -678,6 +700,7 @@
     ]
   },
   {
+    "img": "https://www.carlogos.org/logo/Kia-logo-640x321.jpg",
     "brand": "Kia",
     "models": [
       "Avella",
@@ -707,6 +730,7 @@
     ]
   },
   {
+    "img": "https://www.carlogos.org/logo/Land-Rover-logo-2011-640x335.jpg",
     "brand": "Land Rover",
     "models": [
       "109",
@@ -720,6 +744,7 @@
     ]
   },
   {
+    "img": "https://www.carlogos.org/logo/Dodge-logo-2011-640x90.jpg",
     "brand": "Dodge",
     "models": [
       "Avenger",
@@ -736,6 +761,7 @@
     ]
   },
   {
+    "img": "https://www.carlogos.org/logo/Chrysler-logo-2010-640x104.jpg",
     "brand": "Chrysler",
     "models": [
       "300 C",
@@ -757,6 +783,7 @@
     ]
   },
   {
+    "img": "https://www.carlogos.org/car-logos/ford-logo-2017-show.png",
     "brand": "Ford",
     "models": [
       "Aerostar",
@@ -807,8 +834,16 @@
       "Windstar"
     ]
   },
-  { "brand": "Hummer", "models": ["H2", "H3"] },
   {
+    "img": "https://www.carlogos.org/logo/Hummer-logo-2000x205.png",
+    "brand": "Hummer",
+    "models": [
+      "H2",
+      "H3"
+    ]
+  },
+  {
+    "img": "https://www.carlogos.org/logo/Hyundai-logo-silver-640x401.jpg",
     "brand": "Hyundai",
     "models": [
       "Accent",
@@ -845,10 +880,20 @@
     ]
   },
   {
+    "img": "https://www.carlogos.org/logo/Infiniti-logo-1989-640x308.jpg",
     "brand": "Infiniti",
-    "models": ["EX", "FX", "G", "G Coupé", "M", "Q", "QX"]
+    "models": [
+      "EX",
+      "FX",
+      "G",
+      "G Coupé",
+      "M",
+      "Q",
+      "QX"
+    ]
   },
   {
+    "img": "https://www.carlogos.org/logo/Jaguar-logo-2012-640x287.jpg",
     "brand": "Jaguar",
     "models": [
       "Daimler",
@@ -873,6 +918,7 @@
     ]
   },
   {
+    "img": "https://www.carlogos.org/logo/Jeep-logo-green-640x258.jpg",
     "brand": "Jeep",
     "models": [
       "Cherokee",
@@ -885,6 +931,7 @@
     ]
   },
   {
+    "img": "https://www.carlogos.org/car-logos/nissan-logo-2020-black-show.png",
     "brand": "Nissan",
     "models": [
       "100 NX",
@@ -932,6 +979,7 @@
     ]
   },
   {
+    "img": "https://www.carlogos.org/logo/Volvo-logo-2014-640x550.jpg",
     "brand": "Volvo",
     "models": [
       "240",
@@ -960,6 +1008,7 @@
     ]
   },
   {
+    "img": "https://www.carlogos.org/logo/Daewoo-logo-640x404.jpg",
     "brand": "Daewoo",
     "models": [
       "Espero",
@@ -978,6 +1027,7 @@
     ]
   },
   {
+    "img": "https://www.carlogos.org/logo/Fiat-logo-2006-640x550.jpg",
     "brand": "Fiat",
     "models": [
       "1100",
@@ -1031,6 +1081,7 @@
     ]
   },
   {
+    "img": "https://www.carlogos.org/logo/Mini-logo-2001-640x270.jpg",
     "brand": "MINI",
     "models": [
       "Cooper",
@@ -1047,10 +1098,22 @@
     ]
   },
   {
+    "img": "https://www.carlogos.org/logo/Rover-logo-2003-640x550.jpg",
     "brand": "Rover",
-    "models": ["200", "214", "218", "25", "400", "414", "416", "620", "75"]
+    "models": [
+      "200",
+      "214",
+      "218",
+      "25",
+      "400",
+      "414",
+      "416",
+      "620",
+      "75"
+    ]
   },
   {
+    "img": "https://www.carlogos.org/logo/Smart-logo-1994-640x550.jpg",
     "brand": "Smart",
     "models": [
       "Cabrio",
